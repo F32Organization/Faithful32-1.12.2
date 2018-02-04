@@ -1,0 +1,8 @@
+{
+	"type":"CTM",
+	"textures":[
+        "./terrain-glasslight",
+        "./terrain-glasslight-ctm"
+    ],
+    "layer":"CUTOUT"
+}
