@@ -10,19 +10,19 @@ Mod | Status | Texture Folder
 Actually Additions | In Progress | actuallyadditions
 Advanced Rocketry | Not Implemented | advancedrocketry
 AE2 Stuff | Not Implemented | ae2stuff
-Akashic Tome | Not Implemented | akashictome
-Appleskin | Textures from 1.10 | appleskin
+Akashic Tome | In Progress | akashictome
+Appleskin | Finished | appleskin
 Applied Energistics 2 | Textures from 1.10 | appliedenergistics2
 Architecturecraft | Not Implemented | architecturecraft
 Aroma1997 Core | Not Implemented | aroma1997core
 Aroma1997s Dimensional World | Not Implemented | aroma1997sdimension
 Astral Sorcery | Not Implemented | astralsorcery
 BASE | Not Implemented | base
-Baubles | Textures from 1.10 | baubles
+Baubles | Finished | baubles
 Better Advancements | Not Implemented | betteradvancedments
-Better Builders Wands | Textures from 1.10 | betterbuilderswands
-Bibliocraft | Not Implemented | bibliocraft
-Binnie Mods | Not Implemented | binniecore / binniedesign / botany / extrabees / extratrees / forestry / genetics
+Better Builders Wands | Finished | betterbuilderswands
+Bibliocraft | Textures from 1.7 | bibliocraft
+Binnie Mods | Textures from 1.7 (Binniecore) | binniecore / binniedesign / botany / extrabees / extratrees / forestry / genetics
 Blockcraftery | Not Implemented | blockcraftery
 Bookshelf | Not Implemented | bookshelf
 Botania | Textures from 1.10 | botania / minecraft
@@ -35,24 +35,24 @@ CoFH Core | In Progress | cofh
 Comforts | Not Implemented | comforts
 Compacter | Not Implemented | compacter
 Compact Machines 3 | Not Implemented | compactmachines3
-Compact Solars | Not Implemented | compactsolars
+Compact Solars | Textures from 1.7 | compactsolars
 Cooking for Blockheads | Not Implemented | cookingforblockheads
 Craft Tweaker | Not Implemented | crafttweaker
 Custom Main Menu | Not Implemented | custommainmenu
 Dank Null | Not Implemented | danknull
 Dark Utilities | Textures from 1.10 | darkutils / minecraft
 Deep Resonance | Textures from 1.10 | deepresonance
-Draconic Evolution | Not Implemented | draconicevolution
+Draconic Evolution | Textures from 1.7 | draconicevolution
 ElecCore | Not Implemented | eleccore
 Elevator Mod | Not Implemented | elevatorid
 EluLib | Not Implemented | elulib
 Embers | Not Implemented | embers
-Ender Storage | Not Implemented | enderstorage
+Ender Storage | Textures from 1.7 | enderstorage
 Engieers Workshop Reborn | Not Implemented | engineersworkshop
 Environmental Tech | Not Implemented | environmentaltech
 ET Lunar | Not Implemented | etlunar
 Exchangers | Not Implemented | excnagers
-Extra Cells | Not Implemented | extracells
+Extra Cells | Textures from 1.7 | extracells
 Extra Utilities 2 | Textures from 1.10 | extrautils2 / minecraft
 Extreme Reactors | Textures from 1.10 | bigreactors
 Flat Colored Blocks | Not Implemented | flatcoloredblocks
@@ -85,7 +85,7 @@ Malisis Core | Not Implemented | malisiscore
 Malisis Doors | Not Implemented | malisisdoors
 Mantle | Not Implemented | mantle
 Mob Grinding Utils | Not Implemented | mob_grinding_utils
-Morph-o-Tool | Textures from 1.10 | morphtool
+Morph-o-Tool | Finished | morphtool
 Natura | Textures from 1.10 | natura
 Natures Compass | Not Implemented | naturescompass
 NICE | Not Implemented | nice
@@ -98,7 +98,7 @@ Platforms | Not Implemented | platforms
 Quark | Textures from 1.10 | minecraft / quark
 Rangedpumps | Not Implemented | rangedpumps
 Reborm Core | Not Implemented | reborncore
-Redstone Arsenal | Not Implemented | redstonearsenal
+Redstone Arsenal | Textures from 1.7 | redstonearsenal
 Reliquary | Not Implemented | xreliquary
 RFTools | Textures from 1.10 | rftools
 RFTools Control | Not Implemented | rftoolscontrol
