@@ -59,7 +59,7 @@ Flat Colored Blocks | Not Implemented | flatcoloredblocks
 Flux Networks | Not Implemented | calculator / fluxnetworks / sonarcore
 Forestry | Textures from 1.10 | forestry
 FTBLib | Not Implemented | ftbl
-FTBUtilities | Not Implemeted | ftbu
+FTBUtilities | Not Implemented | ftbu
 Gadgetry Core | Not Implemented | gadgetrycore
 Gadgetry Machines | Not Implemented | gadgetrymachines
 Gendustry | Not Implemented | gendustry
