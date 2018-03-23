@@ -7,6 +7,7 @@ Mod list is incomplete, current modpacks documentated:
 
 Mod | Status | Texture Folder
 ----|------|----
+<b>Minecraft | <b>In Progress | <b>minecraft
 Actually Additions | In Progress | actuallyadditions
 Advanced Rocketry | Not Implemented | advancedrocketry
 AE2 Stuff | Not Implemented | ae2stuff
