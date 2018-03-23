@@ -1,0 +1,6 @@
+The work in this repository is licensed under the
+Creative Commons Attribution-NonCommercial-ShareAlike-4.0 International Public License
+
+For details please see https://creativecommons.org/licenses/by-nc-sa/4.0
+and https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+
