@@ -30,7 +30,7 @@ Brandons Core | Not Implemented | brandonscore
 Careerbees | Not Implemented | careerbees
 Chest Transporter | Not Implemented | chesttransporter
 Chisel | Textures from 1.10 | chisel
-Chisels and Bits | Nor Implemented | chiselsandbits
+Chisels and Bits | Not Implemented | chiselsandbits
 CoFH Core | In Progress | cofh
 Comforts | Not Implemented | comforts
 Compacter | Not Implemented | compacter
@@ -57,7 +57,7 @@ Extra Utilities 2 | Textures from 1.10 | extrautils2 / minecraft
 Extreme Reactors | Textures from 1.10 | bigreactors
 Flat Colored Blocks | Not Implemented | flatcoloredblocks
 Flux Networks | Not Implemented | calculator / fluxnetworks / sonarcore
-Forestry | Textures from 1.10 | forestry
+Forestry | In Progress | forestry
 FTBLib | Not Implemented | ftbl
 FTBUtilities | Not Implemeted | ftbu
 Gadgetry Core | Not Implemented | gadgetrycore
