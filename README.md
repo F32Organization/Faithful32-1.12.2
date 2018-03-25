@@ -5,6 +5,11 @@ Mod list is incomplete, current modpacks documentated:
 
 - FTB Revelation
 
+The mod status in the table below means:
+- Not Implemented: not yet started, the mod is missing from the pack
+- In Progress: work has started but the textures are not complete
+- Finished: all textures of the mod are done
+
 Mod | Status | Texture Folder
 ----|------|----
 Actually Additions | In Progress | actuallyadditions
@@ -67,7 +72,7 @@ Gravestone | Not Implemented | gravestone
 Guide API | Not Implemented | guideapi
 Immersive Engineering | Textures from 1.10 | immersiveengineering / minecraft
 Immersive Petroleum | Not Implemented | immersivepetroleum
-Industrialcraft 2 | Textures from 1.10 | ic2 / minecraft
+Industrialcraft 2 | In Progress | ic2 / minecraft
 Industrial Foregoing | Textures from 1.10 | industrialforegoing
 Iron Backpacks | Textures from 1.10 | ironbackpacks
 Iron Chest | Textures from 1.10 | ironchest
@@ -93,7 +98,7 @@ Not Enough Wands | Not Implemented | notenoughwands
 Nuclearcraft | Not Implemented | nuclearcraft
 Open Computers | Textures from 1.10 | opencomputers
 p455w0rdslib | Not Implemented | p455w0rdslib
-Pam's Harvestcraft | Textures from 1.10 | harvestcraft
+Pam's Harvestcraft | In Progress | harvestcraft
 Platforms | Not Implemented | platforms
 Quark | Textures from 1.10 | minecraft / quark
 Rangedpumps | Not Implemented | rangedpumps
@@ -129,6 +134,6 @@ ValkyrieLib | Not Implemented | minecraft / valkyrielib
 Waystones | Not Implemented | waystones
 Whoosh | Not Implemented | whoosh
 Wireless Crafting Terminal | Not Implemented | wct
-XNet | Not Implemented | xnet
+XNet | In Progress | xnet
 XTones | Not Implemented | xtones
 YABBA | Not Implemented | yabba
