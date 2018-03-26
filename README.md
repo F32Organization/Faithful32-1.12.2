@@ -1,7 +1,7 @@
 # Faithful32-1.12.2
 Mod List
 ---------
-Mod list is incomplete, current modpacks documentated:
+Mod list is incomplete, current modpacks documented:
 
 - FTB Revelation
 
