@@ -1,7 +1,7 @@
 # Faithful32-1.12.2
 Mod List
 ---------
-Mod list is incomplete, current modpacks documentated:
+Mod list is incomplete, current modpacks documented:
 
 - FTB Revelation
 
@@ -12,6 +12,7 @@ The mod status in the table below means:
 
 Mod | Status | Texture Folder
 ----|------|----
+<b>Minecraft | <b>In Progress | <b>minecraft
 Actually Additions | In Progress | actuallyadditions
 Advanced Rocketry | Not Implemented | advancedrocketry
 AE2 Stuff | Not Implemented | ae2stuff
@@ -64,7 +65,7 @@ Flat Colored Blocks | Not Implemented | flatcoloredblocks
 Flux Networks | Not Implemented | calculator / fluxnetworks / sonarcore
 Forestry | In Progress | forestry
 FTBLib | Not Implemented | ftbl
-FTBUtilities | Not Implemeted | ftbu
+FTBUtilities | Not Implemented | ftbu
 Gadgetry Core | Not Implemented | gadgetrycore
 Gadgetry Machines | Not Implemented | gadgetrymachines
 Gendustry | Not Implemented | gendustry
