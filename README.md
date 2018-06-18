@@ -53,7 +53,7 @@ ElecCore | Not Implemented | eleccore
 Elevator Mod | Not Implemented | elevatorid
 EluLib | Not Implemented | elulib
 Embers | Not Implemented | embers
-Ender Storage | Textures from 1.7 | enderstorage
+Ender Storage | Finished | enderstorage
 Engieers Workshop Reborn | Not Implemented | engineersworkshop
 Environmental Tech | Not Implemented | environmentaltech
 ET Lunar | Not Implemented | etlunar
@@ -71,7 +71,7 @@ Gadgetry Machines | Not Implemented | gadgetrymachines
 Gendustry | Not Implemented | gendustry
 Gravestone | Not Implemented | gravestone
 Guide API | Not Implemented | guideapi
-Immersive Engineering | Textures from 1.10 | immersiveengineering / minecraft
+Immersive Engineering | In Progress | immersiveengineering / minecraft
 Immersive Petroleum | Not Implemented | immersivepetroleum
 Industrialcraft 2 | In Progress | ic2 / minecraft
 Industrial Foregoing | Textures from 1.10 | industrialforegoing
@@ -82,7 +82,7 @@ JEI | Finished | jei
 JEI Bees | Not Implemented | jeibees
 JEI Integration | Not Implemented | jeiintegration
 Journeymap | Not Implemented | journeymap / minecraft
-Just Enough Resources | Textures from 1.10 | jeresources
+Just Enough Resources | Finished | jeresources
 LivVulpes | Textures from 1.10 | libvulpes
 LLOverlay Reloaded | Not Implemented | llor
 Long Fall Boots | Not Implemented | longfallboots
@@ -95,7 +95,7 @@ Morph-o-Tool | Finished | morphtool
 Natura | Textures from 1.10 | natura
 Natures Compass | Not Implemented | naturescompass
 NICE | Not Implemented | nice
-Not Enough Wands | Not Implemented | notenoughwands
+Not Enough Wands | Finished | notenoughwands
 Nuclearcraft | Not Implemented | nuclearcraft
 Open Computers | Textures from 1.10 | opencomputers
 p455w0rdslib | Not Implemented | p455w0rdslib
@@ -104,7 +104,7 @@ Platforms | Not Implemented | platforms
 Quark | Textures from 1.10 | minecraft / quark
 Rangedpumps | Not Implemented | rangedpumps
 Reborm Core | Not Implemented | reborncore
-Redstone Arsenal | Textures from 1.7 | redstonearsenal
+Redstone Arsenal | In Progress | redstonearsenal
 Reliquary | Not Implemented | xreliquary
 RFTools | Textures from 1.10 | rftools
 RFTools Control | Not Implemented | rftoolscontrol
