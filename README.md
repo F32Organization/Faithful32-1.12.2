@@ -95,7 +95,7 @@ Morph-o-Tool | Finished | morphtool
 Natura | Textures from 1.10 | natura
 Natures Compass | Not Implemented | naturescompass
 NICE | Not Implemented | nice
-Not Enough Wands | Not Implemented | notenoughwands
+Not Enough Wands | Finished | notenoughwands
 Nuclearcraft | Not Implemented | nuclearcraft
 Open Computers | Textures from 1.10 | opencomputers
 p455w0rdslib | Not Implemented | p455w0rdslib
