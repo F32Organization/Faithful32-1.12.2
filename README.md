@@ -53,7 +53,7 @@ ElecCore | Not Implemented | eleccore
 Elevator Mod | Not Implemented | elevatorid
 EluLib | Not Implemented | elulib
 Embers | Not Implemented | embers
-Ender Storage | Textures from 1.7 | enderstorage
+Ender Storage | Finished | enderstorage
 Engieers Workshop Reborn | Not Implemented | engineersworkshop
 Environmental Tech | Not Implemented | environmentaltech
 ET Lunar | Not Implemented | etlunar
