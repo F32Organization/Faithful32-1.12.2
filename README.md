@@ -79,14 +79,14 @@ Iron Backpacks | Textures from 1.10 | ironbackpacks
 Iron Chest | Textures from 1.10 | ironchest
 JEHC | Not Implemented | jehc
 JEI | Finished | jei
-JEI Bees | Not Implemented | jeibees
+JEI Bees | Finished | jeibees
 JEI Integration | Not Implemented | jeiintegration
 Journeymap | Not Implemented | journeymap / minecraft
 Just Enough Resources | Finished | jeresources
 LivVulpes | Textures from 1.10 | libvulpes
 LLOverlay Reloaded | Not Implemented | llor
 Long Fall Boots | Not Implemented | longfallboots
-Magic Bees | Not Implemented | magicbees
+Magic Bees | Textures from 1.7 | magicbees
 Malisis Core | Not Implemented | malisiscore
 Malisis Doors | Not Implemented | malisisdoors
 Mantle | Not Implemented | mantle
@@ -121,9 +121,11 @@ Storage Drawers | Textures from 1.10 | storagedrawers
 Storage Drawers Extra | Not Implemented | storagedrawersextra
 Tinkers Construct | Textures from 1.10 | tconstruct
 TeslaCoreLib | Not Implemented | teslacorelib
+Thaumcraft | Textures from 1.7 | thaumcraft
+ThaumicJEI | Finished | thaumicjei
 The One Probe | Textures from 1.10 | theoneprobe
 Thermal Cultivation | Not Implemented | thermalcultivation
-Thermal Dynamics | Not Implemented | thermaldynamics
+Thermal Dynamics | Textures from 1.7 | thermaldynamics
 Thermal Expansion | In Progress | thermalexpansion
 Thermal Foundation | In Progress | thermalfoundation
 ThutCore | Not Implemeted | thutcore
