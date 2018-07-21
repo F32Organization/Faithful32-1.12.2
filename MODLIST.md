@@ -11,7 +11,7 @@ Advanced Rocketry | Not Implemented | advancedrocketry
 AE2 Stuff | Not Implemented | ae2stuff
 Akashic Tome | In Progress | akashictome
 Appleskin | Finished | appleskin
-Applied Energistics 2 | Textures from 1.10 | appliedenergistics2
+Applied Energistics 2 | In Progress | appliedenergistics2
 Architecturecraft | Not Implemented | architecturecraft
 Aroma1997 Core | Not Implemented | aroma1997core
 Aroma1997s Dimensional World | Not Implemented | aroma1997sdimension
@@ -32,10 +32,11 @@ Blood Magic | Textures from 1.7 | bloodmagic / bloodmagicguide
 Bookshelf | Not Implemented | bookshelf
 Botania | Textures from 1.10 | botania / minecraft
 Brandons Core | Not Implemented | brandonscore
+Buildcraft | Textures from 1.7 | buildcraftbuilders / buildcraftcompat / buildcraftcore / buildcraftenergy / buildcraftfactory / buildcraftsilicon / buildcrafttransport
 Bullseye | In Progress | bullseye
 Careerbees | Not Implemented | careerbees
 Chest Transporter | Not Implemented | chesttransporter
-Chicken Chunks |In Progress | chickenchunks
+Chicken Chunks | In Progress | chickenchunks
 Chisel | Textures from 1.10 | chisel
 Chisels and Bits | Not Implemented | chiselsandbits
 CoFH Core | In Progress | cofh
@@ -51,7 +52,7 @@ Cyclic | In Progress | cyclicmagic
 Dank Null | Not Implemented | danknull
 Dark Utilities | Textures from 1.10 | darkutils / minecraft
 Deep Resonance | Textures from 1.10 | deepresonance
-Disenchanter | Inn Progress | disenchanter
+Disenchanter | In Progress | disenchanter
 Draconic Evolution | In Progress | draconicevolution
 ElecCore | Not Implemented | eleccore
 Elevator Mod | Not Implemented | elevatorid
@@ -120,7 +121,7 @@ Pam's Harvestcraft | In Progress | harvestcraft
 Platforms | Not Implemented | platforms
 ProjectE | In Progress | projecte
 Project Red | Textures from 1.7 | projectred
-Quark | Textures from 1.10 | minecraft / quark
+Quark | In Progress | minecraft / quark
 Railcraft | In Progress | railcraft
 Rangedpumps | Not Implemented | rangedpumps
 Reborm Core | Not Implemented | reborncore
@@ -151,9 +152,10 @@ Thaumcraft | Textures from 1.7 | thaumcraft
 ThaumicJEI | Finished | thaumicjei
 The One Probe | Textures from 1.10 | theoneprobe
 Thermal Cultivation | Not Implemented | thermalcultivation
-Thermal Dynamics | Textures from 1.7 | thermaldynamics
+Thermal Dynamics | In Progress | thermaldynamics
 Thermal Expansion | In Progress | thermalexpansion
 Thermal Foundation | In Progress | thermalfoundation
+Thermal Innovation | Not Implemented | thermalinnovation
 ThutCore | Not Implemeted | thutcore
 ThutTech | Not Implemented | thuttech
 Tiny Progression | In Progress | tp
