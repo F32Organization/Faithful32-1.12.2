@@ -72,7 +72,7 @@ Expandable Backpack | In Progress | expandablebackpack
 Extra Cells | Textures from 1.7 | extracells
 Extra Utilities 2 | Textures from 1.10 | extrautils2 / minecraft
 Extreme Reactors | Textures from 1.10 | bigreactors
-Flat Colored Blocks | Not Implemented | flatcoloredblocks
+Flat Colored Blocks | In Progress | flatcoloredblocks
 Flux Networks | Not Implemented | calculator / fluxnetworks / sonarcore
 Forestry | In Progress | forestry
 FTBLib | Not Implemented | ftbl
@@ -162,6 +162,7 @@ Tiny Progression | In Progress | tp
 TOP Addons | Not Implemented | topaddons
 Torchmaster | Not Implemented | torchmaster
 Traverse | Not Implemented | traverse
+Twilight Forest | Textures from 1.7 | twilightforest
 ValkyrieLib | Not Implemented | minecraft / valkyrielib
 Visible Armor Slots | In Progress | visiblearmorslots
 Waystones | Not Implemented | waystones
