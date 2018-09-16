@@ -1,5 +1,7 @@
 # Faithful32 1.12.2 Modded
 
+On [Curseforge](https://minecraft.curseforge.com/projects/faithful32-modded)
+
 ## Discord
 
 You can give feedback and make suggestions by opening an issue
