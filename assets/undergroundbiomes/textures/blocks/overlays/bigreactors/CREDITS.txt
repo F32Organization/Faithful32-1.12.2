@@ -1,0 +1,3 @@
+These textures are from Extreme Reactors, I only removed the stone background.
+
+Original Source: https://github.com/ZeroNoRyouki/BigReactors
