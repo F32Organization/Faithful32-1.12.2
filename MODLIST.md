@@ -139,6 +139,7 @@ Signals | Not Implemented | signals
 Simple Achievements | In Progress | simpleachievements
 Simple Covers | In Progress | covers
 Simple Void World | Not Implemented | simpleviodworld
+Sky Resources 2 | In Progress | skyresources
 SonarCore | Not Implemented | sonarcore
 Soul Shards The Old Way | Not Implemented | soulshardstow
 Spice of Life | In Progress | spiceoflife
