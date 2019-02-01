@@ -1,0 +1,12 @@
+{
+    "ctm":{
+        "ctm_version": 1,
+        "type":"CTM",
+        "textures":[
+            "thaumcraft:blocks/paving_stone_travel_ctm"
+        ],
+        "extra":{
+        	"ignore_states":"false"
+        }
+    }
+}
