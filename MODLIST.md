@@ -64,6 +64,7 @@ Ender IO | In Progress | enderio
 Ender Storage | Finished | enderstorage
 Engieers Workshop Reborn | Not Implemented | engineersworkshop
 Environmental Tech | Not Implemented | environmentaltech
+Equivalent Energistics | In Progress | equivalentenergistics
 ET Lunar | Not Implemented | etlunar
 Ex Compressum | In Progress | excompressum
 Ex Nihilo | In Progress | exnihilocreatio
@@ -168,7 +169,7 @@ ValkyrieLib | Not Implemented | minecraft / valkyrielib
 Visible Armor Slots | In Progress | visiblearmorslots
 Waystones | Not Implemented | waystones
 Whoosh | Not Implemented | whoosh
-Wireless Crafting Terminal | Not Implemented | wct
+Wireless Crafting Terminal | Finished | wct
 Wooden Shears | In Progress | woodenshears
 XNet | In Progress | xnet
 XTones | Not Implemented | xtones
