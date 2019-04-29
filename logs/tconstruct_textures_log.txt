@@ -1,0 +1,628 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, April 29, 2019 5:37:02 PM
+   Source : D:\Development\Faithful\Faithful32-1.12.2\TODO\tconstruct\textures\
+     Dest : D:\Development\Faithful\Faithful32-1.12.2\assets\tconstruct\textures\
+
+    Files : *.*
+	    
+  Options : *.* /TS /L /S /E /DCOPY:DA /COPY:DAT /PURGE /MIR /XO /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   0	D:\Development\Faithful\Faithful32-1.12.2\TODO\tconstruct\textures\
+	                  40	D:\Development\Faithful\Faithful32-1.12.2\TODO\tconstruct\textures\blocks\
+	    New File  		     719 2019/03/30 20:59:58	block_knightslime.png
+	    New File  		     531 2019/03/30 20:59:58	block_pigiron.png
+	    New File  		     727 2019/03/30 20:59:58	consecrated_soil.png
+	    New File  		     579 2019/03/30 20:59:58	dried_clay.png
+	    New File  		     551 2019/03/30 20:59:58	dried_clay_bricks.png
+	    New File  		    4473 2019/03/30 20:59:58	firewood.png
+	    New File  		     549 2019/03/30 20:59:58	firewood.png.mcmeta
+	    New File  		     361 2019/03/30 20:59:58	glow.png
+	    New File  		     458 2019/03/30 20:59:58	graveyard_soil.png
+	    New File  		     639 2019/03/30 20:59:58	hopper_inside.png
+	    New File  		     497 2019/03/30 20:59:58	hopper_top.png
+	    New File  		     328 2019/03/30 20:59:58	itemframe_background.png
+	    New File  		     685 2019/03/30 20:59:58	lavawood.png
+	    New File  		     366 2019/03/30 20:59:58	mud_brick.png
+	    New File  		     752 2019/03/30 20:59:58	slimy_mud_blue.png
+	    New File  		     762 2019/03/30 20:59:58	slimy_mud_green.png
+	    New File  		     823 2019/03/30 20:59:58	slimy_mud_magma.png
+	    New File  		     431 2019/03/30 20:59:58	wood_rail.png
+	    New File  		     585 2019/03/30 20:59:58	wood_rail_trapdoor.png
+	    New File  		     557 2019/03/30 20:59:58	wood_rail_trapdoor_turn.png
+	    New File  		     476 2019/03/30 20:59:58	wood_rail_turn.png
+	                  12	D:\Development\Faithful\Faithful32-1.12.2\TODO\tconstruct\textures\blocks\brownstone\
+	  *EXTRA File 		    6917 2019/04/23 13:29:59	smooth_chiseled.png
+	    New File  		     661 2019/03/30 20:59:58	brick_cracked.png
+	    New File  		     610 2019/03/30 20:59:58	brick_small.png
+	    New File  		     624 2019/03/30 20:59:58	brick_square.png
+	    New File  		     656 2019/03/30 20:59:58	brick_triangle.png
+	    New File  		     512 2019/03/30 20:59:58	creeper.png
+	    New File  		     579 2019/03/30 20:59:58	paver.png
+	    New File  		     654 2019/03/30 20:59:58	tile.png
+	                  10	D:\Development\Faithful\Faithful32-1.12.2\TODO\tconstruct\textures\blocks\chest\
+	    New File  		     465 2019/03/30 20:59:58	part_drawer_front.png
+	    New File  		     530 2019/03/30 20:59:58	part_drawer_side.png
+	    New File  		     602 2019/03/30 20:59:58	part_front.png
+	    New File  		     553 2019/03/30 20:59:58	part_side.png
+	    New File  		     457 2019/03/30 20:59:58	pattern_drawer_front.png
+	    New File  		     439 2019/03/30 20:59:58	pattern_drawer_side.png
+	    New File  		     471 2019/03/30 20:59:58	pattern_front.png
+	    New File  		     439 2019/03/30 20:59:58	pattern_side.png
+	                   0	D:\Development\Faithful\Faithful32-1.12.2\TODO\tconstruct\textures\blocks\connected\
+	                  11	D:\Development\Faithful\Faithful32-1.12.2\TODO\tconstruct\textures\blocks\connected\clear_glass\
+	  *EXTRA File 		    2894 2019/04/23 13:29:59	glass_1_d.png
+	  *EXTRA File 		    2892 2019/04/23 13:29:59	glass_1_l.png
+	  *EXTRA File 		    2896 2019/04/23 13:29:59	glass_2_ul.png
+	  *EXTRA File 		    2892 2019/04/23 13:29:59	glass_2_ur.png
+	  *EXTRA File 		    2891 2019/04/23 13:29:59	glass_3_u.png
+	  New Dir         11	D:\Development\Faithful\Faithful32-1.12.2\TODO\tconstruct\textures\blocks\connected\clear_stained_glass\
+	    New File  		    2862 2019/03/30 20:59:58	lr.png
+	    New File  		     168 2019/03/30 20:59:58	normal.png
+	    New File  		    2860 2019/03/30 20:59:58	r.png
+	    New File  		    2838 2019/03/30 20:59:58	u.png
+	    New File  		    2855 2019/03/30 20:59:58	ud.png
+	    New File  		    2834 2019/03/30 20:59:58	udl.png
+	    New File  		    2831 2019/03/30 20:59:58	udlr.png
+	    New File  		    2855 2019/03/30 20:59:58	udr.png
+	    New File  		    2838 2019/03/30 20:59:58	ul.png
+	    New File  		    2838 2019/03/30 20:59:58	ulr.png
+	    New File  		    2838 2019/03/30 20:59:58	ur.png
+	                  11	D:\Development\Faithful\Faithful32-1.12.2\TODO\tconstruct\textures\blocks\connected\seared_glass\
+	  New Dir         20	D:\Development\Faithful\Faithful32-1.12.2\TODO\tconstruct\textures\blocks\fluids\
+	    New File  		   14944 2019/03/30 20:59:58	liquid.png
+	    New File  		      21 2019/03/30 20:59:58	liquid.png.mcmeta
+	    New File  		   10409 2019/03/30 20:59:58	liquid_flow.png
+	    New File  		      44 2019/03/30 20:59:58	liquid_flow.png.mcmeta
+	    New File  		   11008 2019/03/30 20:59:58	liquid_stone.png
+	    New File  		     426 2019/03/30 20:59:58	liquid_stone.png.mcmeta
+	    New File  		    8858 2019/03/30 20:59:58	liquid_stone_flow.png
+	    New File  		      44 2019/03/30 20:59:58	liquid_stone_flow.png.mcmeta
+	    New File  		    4033 2019/03/30 20:59:58	milk.png
+	    New File  		      21 2019/03/30 20:59:58	milk.png.mcmeta
+	    New File  		    3486 2019/03/30 20:59:58	milk_flow.png
+	    New File  		      44 2019/03/30 20:59:58	milk_flow.png.mcmeta
+	    New File  		   10281 2019/03/30 20:59:58	molten_metal.png
+	    New File  		     426 2019/03/30 20:59:58	molten_metal.png.mcmeta
+	    New File  		    9757 2019/03/30 20:59:58	molten_metal_flow.png
+	    New File  		      44 2019/03/30 20:59:58	molten_metal_flow.png.mcmeta
+	    New File  		   12671 2019/03/30 20:59:58	slime_channel_diagonal.png
+	    New File  		      44 2019/03/30 20:59:58	slime_channel_diagonal.png.mcmeta
+	    New File  		     745 2019/03/30 20:59:58	slime_channel_still.png
+	    New File  		     693 2019/03/30 20:59:58	slime_channel_still_diagonal.png
+	                  26	D:\Development\Faithful\Faithful32-1.12.2\TODO\tconstruct\textures\blocks\slime\
+	    New File  		     453 2019/03/30 20:59:58	slimeblock_blood.png
+	    New File  		     404 2019/03/30 20:59:58	slimeblock_magma.png
+	    New File  		     947 2019/03/30 20:59:58	slimedirt_magma.png
+	    New File  		     940 2019/03/30 20:59:58	slimedirt_purple.png
+	    New File  		     885 2019/03/30 20:59:58	slimegrass_fern.png
+	    New File  		     753 2019/03/30 20:59:58	slimegrass_green_overlay.png
+	    New File  		     715 2019/03/30 20:59:58	slimegrass_overlay.png
+	    New File  		     933 2019/03/30 20:59:58	slimegrass_tall.png
+	    New File  		     931 2019/03/30 20:59:58	slimegrass_top.png
+	    New File  		     539 2019/03/30 20:59:58	slimeleaves.png
+	    New File  		     487 2019/03/30 20:59:58	slimesapling_orange.png
+	    New File  		     517 2019/03/30 20:59:58	slimesapling_purple.png
+	    New File  		     415 2019/03/30 20:59:58	slimevine.png
+	    New File  		     468 2019/03/30 20:59:58	slimevine_end.png
+	    New File  		     449 2019/03/30 20:59:58	slimevine_mid.png
+	    New File  		     850 2019/03/30 20:59:58	slime_blood.png
+	    New File  		     824 2019/03/30 20:59:58	slime_blue.png
+	    New File  		     863 2019/03/30 20:59:58	slime_magma.png
+	    New File  		     813 2019/03/30 20:59:58	slime_purple.png
+	                  35	D:\Development\Faithful\Faithful32-1.12.2\TODO\tconstruct\textures\blocks\smeltery\
+	    New File  		     394 2019/03/30 20:59:58	channel_in.png
+	    New File  		     393 2019/03/30 20:59:58	channel_out.png
+	    New File  		     413 2019/03/30 20:59:58	seared_brick_small.png
+	    New File  		     637 2019/03/30 20:59:58	seared_brick_triangle.png
+	    New File  		     533 2019/03/30 20:59:58	seared_furnace_active.png
+	    New File  		     504 2019/03/30 20:59:58	seared_furnace_inactive.png
+	    New File  		     582 2019/03/30 20:59:58	seared_tile.png
+	    New File  		     517 2019/03/30 20:59:58	tinker_tank.png
+	    New File  		     155 2019/03/30 20:59:58	tinker_tank_background.png
+	    New File  		     545 2019/03/30 20:59:58	tinker_tank_overlay.png
+	  New Dir          4	D:\Development\Faithful\Faithful32-1.12.2\TODO\tconstruct\textures\colormap\
+	    New File  		   46533 2019/03/30 20:59:58	bluegrasscolor.png
+	    New File  		   54015 2019/03/30 20:59:58	orangegrasscolor.png
+	    New File  		   18943 2019/03/30 20:59:58	purplegrasscolor.png
+	    New File  		   21465 2019/03/30 20:59:58	slimegrasscolor.png
+	  New Dir          2	D:\Development\Faithful\Faithful32-1.12.2\TODO\tconstruct\textures\entity\
+	    New File  		     709 2019/03/30 20:59:58	slime.png
+	    New File  		    1243 2019/03/30 20:59:58	villagertools.png
+	                   0	D:\Development\Faithful\Faithful32-1.12.2\TODO\tconstruct\textures\gui\
+	  *EXTRA File 		    3317 2019/04/28 23:03:48	blank.png
+	  *EXTRA File 		    1459 2019/04/28 23:50:16	generic.png
+	  *EXTRA File 		    3419 2019/04/28 22:47:54	hopper.png
+	  *EXTRA File 		   20605 2019/04/29 00:59:39	icons.png
+	  *EXTRA File 		   21494 2019/04/29 00:08:01	panel.png
+	  *EXTRA File 		    7765 2019/04/28 22:44:27	partbuilder.png
+	  *EXTRA File 		    9936 2019/04/28 22:31:01	seared_furnace.png
+	  *EXTRA File 		    3942 2019/04/23 13:29:59	smeltery.png
+	  *EXTRA File 		    3613 2019/04/28 23:03:12	stenciltable.png
+	  *EXTRA File 		    2892 2019/04/28 22:41:57	tinker_tank.png
+	  *EXTRA File 		   13443 2019/04/28 23:02:18	toolstation.png
+	  New Dir          7	D:\Development\Faithful\Faithful32-1.12.2\TODO\tconstruct\textures\gui\book\
+	    New File  		  176404 2019/03/30 20:59:58	bolt_core.png
+	    New File  		    7496 2019/03/30 20:59:58	inventory_repair.png
+	    New File  		    3956 2019/03/30 20:59:58	modify.png
+	    New File  		  123255 2019/03/30 20:59:58	offhand.png
+	    New File  		   87169 2019/03/30 20:59:58	seared_furnace.png
+	    New File  		  106225 2019/03/30 20:59:58	smeltery.png
+	    New File  		  153601 2019/03/30 20:59:58	tinker_tank.png
+	  New Dir          5	D:\Development\Faithful\Faithful32-1.12.2\TODO\tconstruct\textures\gui\crosshair\
+	    New File  		     218 2019/03/30 20:59:58	inverse.png
+	    New File  		     185 2019/03/30 20:59:58	plus.png
+	    New File  		     190 2019/03/30 20:59:58	square.png
+	    New File  		     177 2019/03/30 20:59:58	t.png
+	    New File  		     233 2019/03/30 20:59:58	x.png
+	  New Dir          3	D:\Development\Faithful\Faithful32-1.12.2\TODO\tconstruct\textures\gui\jei\
+	    New File  		    2866 2019/03/30 20:59:58	casting.png
+	    New File  		    1910 2019/03/30 20:59:58	dryingrack.png
+	    New File  		    3693 2019/03/30 20:59:58	smeltery.png
+	                  14	D:\Development\Faithful\Faithful32-1.12.2\TODO\tconstruct\textures\items\
+	    New File  		     262 2019/03/30 20:59:58	paper_base_pattern_UNUSED.png
+	    New File  		     246 2019/03/30 20:59:58	pattern_large_plate.png
+	    New File  		     271 2019/03/30 20:59:58	skull_char_gold.png
+	    New File  		     814 2019/03/30 20:59:58	wooden_hopper.png
+	                   1	D:\Development\Faithful\Faithful32-1.12.2\TODO\tconstruct\textures\items\armor\
+	                  26	D:\Development\Faithful\Faithful32-1.12.2\TODO\tconstruct\textures\items\arrow\
+	    New File  		     259 2019/03/30 20:59:58	head_cactus.png
+	    New File  		     208 2019/03/30 20:59:58	head_paper.png
+	    New File  		     176 2019/03/30 20:59:58	mod_bane_spider.png
+	    New File  		     200 2019/03/30 20:59:58	mod_beheading.png
+	    New File  		     168 2019/03/30 20:59:58	mod_diamond.png
+	    New File  		     160 2019/03/30 20:59:58	mod_emerald.png
+	    New File  		     216 2019/03/30 20:59:58	mod_fiery.png
+	    New File  		     173 2019/03/30 20:59:58	mod_fins.png
+	    New File  		     601 2019/03/30 20:59:58	mod_glowing.png
+	    New File  		     278 2019/03/30 20:59:58	mod_knockback.png
+	    New File  		     166 2019/03/30 20:59:58	mod_luck.png
+	    New File  		     246 2019/03/30 20:59:58	mod_mending_moss.png
+	    New File  		     166 2019/03/30 20:59:58	mod_necrotic.png
+	    New File  		     185 2019/03/30 20:59:58	mod_reinforced.png
+	    New File  		     161 2019/03/30 20:59:58	mod_sharpness.png
+	    New File  		     375 2019/03/30 20:59:58	mod_shulking.png
+	    New File  		     224 2019/03/30 20:59:58	mod_silk.png
+	    New File  		     275 2019/03/30 20:59:58	mod_smite.png
+	    New File  		     193 2019/03/30 20:59:58	mod_soulbound.png
+	    New File  		     297 2019/03/30 20:59:58	mod_web.png
+	    New File  		     306 2019/03/30 20:59:58	shaft_broken.png
+	                  43	D:\Development\Faithful\Faithful32-1.12.2\TODO\tconstruct\textures\items\battleaxe\
+	    New File  		     124 2019/03/30 20:59:58	broken_fronthead_cactus.png
+	    New File  		     123 2019/03/30 20:59:58	broken_fronthead_contrast.png
+	    New File  		     124 2019/03/30 20:59:58	broken_fronthead_paper.png
+	    New File  		     399 2019/03/30 20:59:58	mod_glowing.png
+	    New File  		     240 2019/03/30 20:59:58	mod_mending_moss.png
+	    New File  		     177 2019/03/30 20:59:58	mod_shulking.png
+	    New File  		     251 2019/03/30 20:59:58	mod_soulbound.png
+	    New File  		     248 2019/03/30 20:59:58	mod_web.png
+	                  31	D:\Development\Faithful\Faithful32-1.12.2\TODO\tconstruct\textures\items\battlesign\
+	    New File  		     534 2019/03/30 20:59:58	mod_glowing.png
+	    New File  		     247 2019/03/30 20:59:58	mod_mending_moss.png
+	    New File  		     195 2019/03/30 20:59:58	mod_shulking.png
+	    New File  		     266 2019/03/30 20:59:58	mod_soulbound.png
+	    New File  		     190 2019/03/30 20:59:58	mod_web.png
+	  New Dir         24	D:\Development\Faithful\Faithful32-1.12.2\TODO\tconstruct\textures\items\bolt\
+	    New File  		     171 2019/03/30 20:59:58	bolt_gui.png
+	    New File  		     159 2019/03/30 20:59:58	fletching.png
+	    New File  		     213 2019/03/30 20:59:58	fletching_feather.png
+	    New File  		     194 2019/03/30 20:59:58	head.png
+	    New File  		     145 2019/03/30 20:59:58	head_contrast.png
+	    New File  		     175 2019/03/30 20:59:58	mod_bane_spider.png
+	    New File  		     188 2019/03/30 20:59:58	mod_beheading.png
+	    New File  		     153 2019/03/30 20:59:58	mod_diamond.png
+	    New File  		     179 2019/03/30 20:59:58	mod_emerald.png
+	    New File  		     232 2019/03/30 20:59:58	mod_fiery.png
+	    New File  		     172 2019/03/30 20:59:58	mod_fins.png
+	    New File  		     178 2019/03/30 20:59:58	mod_glowing.png
+	    New File  		     211 2019/03/30 20:59:58	mod_knockback.png
+	    New File  		     180 2019/03/30 20:59:58	mod_luck.png
+	    New File  		     189 2019/03/30 20:59:58	mod_mending_moss.png
+	    New File  		     189 2019/03/30 20:59:58	mod_necrotic.png
+	    New File  		     185 2019/03/30 20:59:58	mod_reinforced.png
+	    New File  		     161 2019/03/30 20:59:58	mod_sharpness.png
+	    New File  		     186 2019/03/30 20:59:58	mod_shulking.png
+	    New File  		     218 2019/03/30 20:59:58	mod_silk.png
+	    New File  		     252 2019/03/30 20:59:58	mod_smite.png
+	    New File  		     194 2019/03/30 20:59:58	mod_soulbound.png
+	    New File  		     166 2019/03/30 20:59:58	mod_web.png
+	    New File  		     173 2019/03/30 20:59:58	shaft.png
+	                  35	D:\Development\Faithful\Faithful32-1.12.2\TODO\tconstruct\textures\items\broadsword\
+	    New File  		     576 2019/03/30 20:59:58	mod_glowing.png
+	    New File  		     247 2019/03/30 20:59:58	mod_mending_moss.png
+	    New File  		     379 2019/03/30 20:59:58	mod_shulking.png
+	    New File  		     268 2019/03/30 20:59:58	mod_soulbound.png
+	    New File  		     231 2019/03/30 20:59:58	mod_web.png
+	                  35	D:\Development\Faithful\Faithful32-1.12.2\TODO\tconstruct\textures\items\cleaver\
+	    New File  		     605 2019/03/30 20:59:58	mod_glowing.png
+	    New File  		     242 2019/03/30 20:59:58	mod_mending_moss.png
+	    New File  		     591 2019/03/30 20:59:58	mod_shulking.png
+	    New File  		     251 2019/03/30 20:59:58	mod_soulbound.png
+	    New File  		     560 2019/03/30 20:59:58	mod_web.png
+	  New Dir         36	D:\Development\Faithful\Faithful32-1.12.2\TODO\tconstruct\textures\items\crossbow\
+	    New File  		     232 2019/03/30 20:59:58	binding.png
+	    New File  		     313 2019/03/30 20:59:58	body.png
+	    New File  		     140 2019/03/30 20:59:58	bowstring.png
+	    New File  		     271 2019/03/30 20:59:58	bowstring_1.png
+	    New File  		     276 2019/03/30 20:59:58	bowstring_2.png
+	    New File  		     164 2019/03/30 20:59:58	bowstring_3.png
+	    New File  		     168 2019/03/30 20:59:58	bowstring_broken.png
+	    New File  		     291 2019/03/30 20:59:58	limb.png
+	    New File  		     312 2019/03/30 20:59:58	limb_2.png
+	    New File  		     290 2019/03/30 20:59:58	limb_3.png
+	    New File  		     223 2019/03/30 20:59:58	mod_bane_spider.png
+	    New File  		     229 2019/03/30 20:59:58	mod_beheading.png
+	    New File  		     207 2019/03/30 20:59:58	mod_diamond.png
+	    New File  		     211 2019/03/30 20:59:58	mod_emerald.png
+	    New File  		     173 2019/03/30 20:59:58	mod_emerald_2.png
+	    New File  		     236 2019/03/30 20:59:58	mod_fiery.png
+	    New File  		     242 2019/03/30 20:59:58	mod_fiery_2.png
+	    New File  		     253 2019/03/30 20:59:58	mod_fiery_3.png
+	    New File  		     176 2019/03/30 20:59:58	mod_glowing.png
+	    New File  		     157 2019/03/30 20:59:58	mod_haste.png
+	    New File  		     163 2019/03/30 20:59:58	mod_haste_1.png
+	    New File  		     181 2019/03/30 20:59:58	mod_haste_2.png
+	    New File  		     172 2019/03/30 20:59:58	mod_haste_3.png
+	    New File  		     274 2019/03/30 20:59:58	mod_knockback.png
+	    New File  		     209 2019/03/30 20:59:58	mod_luck.png
+	    New File  		     220 2019/03/30 20:59:58	mod_mending_moss.png
+	    New File  		     239 2019/03/30 20:59:58	mod_necrotic.png
+	    New File  		     200 2019/03/30 20:59:58	mod_reinforced.png
+	    New File  		     209 2019/03/30 20:59:58	mod_sharpness.png
+	    New File  		     260 2019/03/30 20:59:58	mod_sharpness_2.png
+	    New File  		     253 2019/03/30 20:59:58	mod_sharpness_3.png
+	    New File  		     165 2019/03/30 20:59:58	mod_shulking.png
+	    New File  		     178 2019/03/30 20:59:58	mod_silk.png
+	    New File  		     229 2019/03/30 20:59:58	mod_smite.png
+	    New File  		     193 2019/03/30 20:59:58	mod_soulbound.png
+	    New File  		     167 2019/03/30 20:59:58	mod_web.png
+	                  25	D:\Development\Faithful\Faithful32-1.12.2\TODO\tconstruct\textures\items\cutlass\
+	    New File  		     158 2019/03/30 20:59:58	full_guard_paper.png
+	    New File  		     504 2019/03/30 20:59:58	mod_glowing.png
+	    New File  		     242 2019/03/30 20:59:58	mod_mending_moss.png
+	    New File  		     175 2019/03/30 20:59:58	mod_shulking.png
+	    New File  		     250 2019/03/30 20:59:58	mod_soulbound.png
+	    New File  		     185 2019/03/30 20:59:58	mod_web.png
+	                  40	D:\Development\Faithful\Faithful32-1.12.2\TODO\tconstruct\textures\items\excavator\
+	    New File  		     155 2019/03/30 20:59:58	mod_blasting.png
+	    New File  		     168 2019/03/30 20:59:58	mod_fortified.png
+	    New File  		     258 2019/03/30 20:59:58	mod_glowing.png
+	    New File  		     225 2019/03/30 20:59:58	mod_mending_moss.png
+	    New File  		     418 2019/03/30 20:59:58	mod_shulking.png
+	    New File  		     261 2019/03/30 20:59:58	mod_soulbound.png
+	    New File  		     169 2019/03/30 20:59:58	mod_web.png
+	                  23	D:\Development\Faithful\Faithful32-1.12.2\TODO\tconstruct\textures\items\food\
+	    New File  		     430 2019/03/30 20:59:58	jerky_clownfish.png
+	    New File  		     651 2019/03/30 20:59:58	jerky_pufferfish.png
+	    New File  		     610 2019/03/30 20:59:58	jerky_rabbit.png
+	    New File  		     402 2019/03/30 20:59:58	jerky_salmon.png
+	    New File  		     447 2019/03/30 20:59:58	moms_spaghetti.png
+	    New File  		     387 2019/03/30 20:59:58	slimedrop_magma.png
+	    New File  		     428 2019/03/30 20:59:58	spaghetti_cold.png
+	    New File  		     594 2019/03/30 20:59:58	spaghetti_hard.png
+	    New File  		     361 2019/03/30 20:59:58	spaghetti_meat.png
+	    New File  		     315 2019/03/30 20:59:58	spaghetti_sauce.png
+	    New File  		     297 2019/03/30 20:59:58	spaghetti_soggy.png
+	                  26	D:\Development\Faithful\Faithful32-1.12.2\TODO\tconstruct\textures\items\frypan\
+	    New File  		     503 2019/03/30 20:59:58	mod_glowing.png
+	    New File  		     235 2019/03/30 20:59:58	mod_mending_moss.png
+	    New File  		     154 2019/03/30 20:59:58	mod_shulking.png
+	    New File  		     265 2019/03/30 20:59:58	mod_soulbound.png
+	  New Dir          4	D:\Development\Faithful\Faithful32-1.12.2\TODO\tconstruct\textures\items\gadgets\
+	    New File  		     479 2019/03/30 20:59:58	efln.png
+	    New File  		     483 2019/03/30 20:59:58	glowball.png
+	    New File  		     408 2019/03/30 20:59:58	piggybackpack.png
+	    New File  		     367 2019/03/30 20:59:58	slimesling.png
+	                  42	D:\Development\Faithful\Faithful32-1.12.2\TODO\tconstruct\textures\items\hammer\
+	    New File  		     152 2019/03/30 20:59:58	mod_blasting.png
+	    New File  		     189 2019/03/30 20:59:58	mod_fortified.png
+	    New File  		     450 2019/03/30 20:59:58	mod_glowing.png
+	    New File  		     243 2019/03/30 20:59:58	mod_mending_moss.png
+	    New File  		     177 2019/03/30 20:59:58	mod_shulking.png
+	    New File  		     261 2019/03/30 20:59:58	mod_soulbound.png
+	    New File  		     175 2019/03/30 20:59:58	mod_web.png
+	                  32	D:\Development\Faithful\Faithful32-1.12.2\TODO\tconstruct\textures\items\hatchet\
+	    New File  		     165 2019/03/30 20:59:58	binding.png
+	    New File  		     195 2019/03/30 20:59:58	binding_cactus.png
+	    New File  		     168 2019/03/30 20:59:58	binding_contrast.png
+	    New File  		     173 2019/03/30 20:59:58	binding_paper.png
+	    New File  		     155 2019/03/30 20:59:58	mod_blasting.png
+	    New File  		     162 2019/03/30 20:59:58	mod_fortified.png
+	    New File  		     546 2019/03/30 20:59:58	mod_glowing.png
+	    New File  		     235 2019/03/30 20:59:58	mod_mending_moss.png
+	    New File  		     158 2019/03/30 20:59:58	mod_shulking.png
+	    New File  		     275 2019/03/30 20:59:58	mod_soulbound.png
+	    New File  		     175 2019/03/30 20:59:58	mod_web.png
+	  New Dir         32	D:\Development\Faithful\Faithful32-1.12.2\TODO\tconstruct\textures\items\kama\
+	    New File  		     244 2019/03/30 20:59:58	binding.png
+	    New File  		     260 2019/03/30 20:59:58	binding_cactus.png
+	    New File  		     243 2019/03/30 20:59:58	binding_contrast.png
+	    New File  		     246 2019/03/30 20:59:58	binding_paper.png
+	    New File  		     264 2019/03/30 20:59:58	broken_head.png
+	    New File  		     294 2019/03/30 20:59:58	broken_head_cactus.png
+	    New File  		     264 2019/03/30 20:59:58	broken_head_contrast.png
+	    New File  		     249 2019/03/30 20:59:58	broken_head_paper.png
+	    New File  		     269 2019/03/30 20:59:58	head.png
+	    New File  		     284 2019/03/30 20:59:58	head_cactus.png
+	    New File  		     250 2019/03/30 20:59:58	head_contrast.png
+	    New File  		     256 2019/03/30 20:59:58	head_paper.png
+	    New File  		     274 2019/03/30 20:59:58	mod_bane_spider.png
+	    New File  		     296 2019/03/30 20:59:58	mod_beheading.png
+	    New File  		     217 2019/03/30 20:59:58	mod_blasting.png
+	    New File  		     251 2019/03/30 20:59:58	mod_diamond.png
+	    New File  		     283 2019/03/30 20:59:58	mod_emerald.png
+	    New File  		     267 2019/03/30 20:59:58	mod_fiery.png
+	    New File  		     260 2019/03/30 20:59:58	mod_fortified.png
+	    New File  		     551 2019/03/30 20:59:58	mod_glowing.png
+	    New File  		     295 2019/03/30 20:59:58	mod_haste.png
+	    New File  		     317 2019/03/30 20:59:58	mod_knockback.png
+	    New File  		     106 2019/03/30 20:59:58	mod_luck.png
+	    New File  		     221 2019/03/30 20:59:58	mod_mending_moss.png
+	    New File  		     230 2019/03/30 20:59:58	mod_necrotic.png
+	    New File  		     219 2019/03/30 20:59:58	mod_reinforced.png
+	    New File  		     252 2019/03/30 20:59:58	mod_sharpness.png
+	    New File  		     205 2019/03/30 20:59:58	mod_shulking.png
+	    New File  		     226 2019/03/30 20:59:58	mod_silk.png
+	    New File  		     229 2019/03/30 20:59:58	mod_smite.png
+	    New File  		     267 2019/03/30 20:59:58	mod_soulbound.png
+	    New File  		     238 2019/03/30 20:59:58	mod_web.png
+	  New Dir         68	D:\Development\Faithful\Faithful32-1.12.2\TODO\tconstruct\textures\items\longbow\
+	    New File  		     246 2019/03/30 20:59:58	bowstring.png
+	    New File  		     244 2019/03/30 20:59:58	bowstring_1.png
+	    New File  		     241 2019/03/30 20:59:58	bowstring_2.png
+	    New File  		     237 2019/03/30 20:59:58	bowstring_3.png
+	    New File  		     245 2019/03/30 20:59:58	bowstring_broken.png
+	    New File  		     242 2019/03/30 20:59:58	grip.png
+	    New File  		     274 2019/03/30 20:59:58	grip_cactus.png
+	    New File  		     241 2019/03/30 20:59:58	grip_contrast.png
+	    New File  		     260 2019/03/30 20:59:58	grip_paper.png
+	    New File  		     255 2019/03/30 20:59:58	limb_bottom.png
+	    New File  		     236 2019/03/30 20:59:58	limb_bottom_2.png
+	    New File  		     285 2019/03/30 20:59:58	limb_bottom_2_cactus.png
+	    New File  		     235 2019/03/30 20:59:58	limb_bottom_2_contrast.png
+	    New File  		     253 2019/03/30 20:59:58	limb_bottom_2_paper.png
+	    New File  		     235 2019/03/30 20:59:58	limb_bottom_3.png
+	    New File  		     287 2019/03/30 20:59:58	limb_bottom_3_cactus.png
+	    New File  		     241 2019/03/30 20:59:58	limb_bottom_3_contrast.png
+	    New File  		     253 2019/03/30 20:59:58	limb_bottom_3_paper.png
+	    New File  		     285 2019/03/30 20:59:58	limb_bottom_cactus.png
+	    New File  		     251 2019/03/30 20:59:58	limb_bottom_contrast.png
+	    New File  		     262 2019/03/30 20:59:58	limb_bottom_paper.png
+	    New File  		     248 2019/03/30 20:59:58	limb_top.png
+	    New File  		     222 2019/03/30 20:59:58	limb_top_2.png
+	    New File  		     287 2019/03/30 20:59:58	limb_top_2_cactus.png
+	    New File  		     227 2019/03/30 20:59:58	limb_top_2_contrast.png
+	    New File  		     252 2019/03/30 20:59:58	limb_top_2_paper.png
+	    New File  		     227 2019/03/30 20:59:58	limb_top_3.png
+	    New File  		     281 2019/03/30 20:59:58	limb_top_3_cactus.png
+	    New File  		     223 2019/03/30 20:59:58	limb_top_3_contrast.png
+	    New File  		     249 2019/03/30 20:59:58	limb_top_3_paper.png
+	    New File  		     291 2019/03/30 20:59:58	limb_top_cactus.png
+	    New File  		     250 2019/03/30 20:59:58	limb_top_contrast.png
+	    New File  		     250 2019/03/30 20:59:58	limb_top_paper.png
+	    New File  		     280 2019/03/30 20:59:58	mod_bane_spider.png
+	    New File  		     279 2019/03/30 20:59:58	mod_bane_spider_2.png
+	    New File  		     279 2019/03/30 20:59:58	mod_bane_spider_3.png
+	    New File  		     148 2019/03/30 20:59:58	mod_beheading.png
+	    New File  		     250 2019/03/30 20:59:58	mod_diamond.png
+	    New File  		     248 2019/03/30 20:59:58	mod_emerald.png
+	    New File  		     290 2019/03/30 20:59:58	mod_fiery.png
+	    New File  		     299 2019/03/30 20:59:58	mod_fiery_2.png
+	    New File  		     271 2019/03/30 20:59:58	mod_fiery_3.png
+	    New File  		     543 2019/03/30 20:59:58	mod_glowing.png
+	    New File  		     542 2019/03/30 20:59:58	mod_glowing_1.png
+	    New File  		     463 2019/03/30 20:59:58	mod_glowing_2.png
+	    New File  		     553 2019/03/30 20:59:58	mod_glowing_3.png
+	    New File  		     249 2019/03/30 20:59:58	mod_haste.png
+	    New File  		     245 2019/03/30 20:59:58	mod_haste_1.png
+	    New File  		     238 2019/03/30 20:59:58	mod_haste_2.png
+	    New File  		     238 2019/03/30 20:59:58	mod_haste_3.png
+	    New File  		     288 2019/03/30 20:59:58	mod_knockback.png
+	    New File  		     261 2019/03/30 20:59:58	mod_mending_moss.png
+	    New File  		     117 2019/03/30 20:59:58	mod_necrotic.png
+	    New File  		     106 2019/03/30 20:59:58	mod_reinforced.png
+	    New File  		     255 2019/03/30 20:59:58	mod_sharpness.png
+	    New File  		     260 2019/03/30 20:59:58	mod_sharpness_2.png
+	    New File  		     266 2019/03/30 20:59:58	mod_sharpness_3.png
+	    New File  		     304 2019/03/30 20:59:58	mod_shulking.png
+	    New File  		     297 2019/03/30 20:59:58	mod_shulking_2.png
+	    New File  		     291 2019/03/30 20:59:58	mod_shulking_3.png
+	    New File  		     273 2019/03/30 20:59:58	mod_silk.png
+	    New File  		     280 2019/03/30 20:59:58	mod_silk_2.png
+	    New File  		     285 2019/03/30 20:59:58	mod_silk_3.png
+	    New File  		     148 2019/03/30 20:59:58	mod_smite.png
+	    New File  		     248 2019/03/30 20:59:58	mod_soulbound.png
+	    New File  		     294 2019/03/30 20:59:58	mod_web.png
+	    New File  		     305 2019/03/30 20:59:58	mod_web_2.png
+	    New File  		     308 2019/03/30 20:59:58	mod_web_3.png
+	                  30	D:\Development\Faithful\Faithful32-1.12.2\TODO\tconstruct\textures\items\longsword\
+	    New File  		     488 2019/03/30 20:59:58	mod_glowing.png
+	    New File  		     234 2019/03/30 20:59:58	mod_mending_moss.png
+	    New File  		     188 2019/03/30 20:59:58	mod_shulking.png
+	    New File  		     266 2019/03/30 20:59:58	mod_soulbound.png
+	    New File  		     180 2019/03/30 20:59:58	mod_web.png
+	                  40	D:\Development\Faithful\Faithful32-1.12.2\TODO\tconstruct\textures\items\lumberaxe\
+	    New File  		     154 2019/03/30 20:59:58	mod_blasting.png
+	    New File  		     187 2019/03/30 20:59:58	mod_fortified.png
+	    New File  		     524 2019/03/30 20:59:58	mod_glowing.png
+	    New File  		     231 2019/03/30 20:59:58	mod_mending_moss.png
+	    New File  		     203 2019/03/30 20:59:58	mod_shulking.png
+	    New File  		     272 2019/03/30 20:59:58	mod_soulbound.png
+	    New File  		     210 2019/03/30 20:59:58	mod_web.png
+	                  32	D:\Development\Faithful\Faithful32-1.12.2\TODO\tconstruct\textures\items\materials\
+	  *EXTRA File 		    1290 2019/04/23 13:29:59	Claystone Brick.png
+	  *EXTRA File 		     350 2019/04/23 13:29:59	ingot_alubrassingot.png
+	  *EXTRA File 		     311 2019/04/23 13:29:59	ingot_alumite.png
+	  *EXTRA File 		     320 2019/04/23 13:29:59	ingot_cobaltingot.png
+	  *EXTRA File 		     332 2019/04/23 13:29:59	ingot_manyullyningot.png
+	  *EXTRA File 		     311 2019/04/23 13:29:59	material_alumiteingot.png
+	  *EXTRA File 		     310 2019/04/23 13:29:59	material_arditeingot.png
+	    New File  		     849 2019/03/30 20:59:58	ardite_rust.png
+	    New File  		   18890 2019/03/30 20:59:58	expander_h.png
+	    New File  		   18874 2019/03/30 20:59:58	expander_w.png
+	    New File  		     645 2019/03/30 20:59:58	mud_brick.png
+	    New File  		     348 2019/03/30 20:59:58	nugget_pigiron.png
+	                  36	D:\Development\Faithful\Faithful32-1.12.2\TODO\tconstruct\textures\items\mattock\
+	    New File  		     266 2019/03/30 20:59:58	mod_blasting.png
+	    New File  		     528 2019/03/30 20:59:58	mod_glowing.png
+	    New File  		     240 2019/03/30 20:59:58	mod_mending_moss.png
+	    New File  		     158 2019/03/30 20:59:58	mod_shulking.png
+	    New File  		     276 2019/03/30 20:59:58	mod_soulbound.png
+	    New File  		     174 2019/03/30 20:59:58	mod_web.png
+	                  54	D:\Development\Faithful\Faithful32-1.12.2\TODO\tconstruct\textures\items\parts\
+	    New File  		     491 2019/03/30 20:59:58	bowstring.png
+	    New File  		     299 2019/03/30 20:59:58	shard.png
+	    New File  		     279 2019/03/30 20:59:58	shard_cactus.png
+	    New File  		     133 2019/03/30 20:59:58	shard_contrast.png
+	                  37	D:\Development\Faithful\Faithful32-1.12.2\TODO\tconstruct\textures\items\pickaxe\
+	    New File  		     102 2019/03/30 20:59:58	binding_cactus.png
+	    New File  		      99 2019/03/30 20:59:58	binding_paper.png
+	    New File  		     154 2019/03/30 20:59:58	mod_blasting.png
+	    New File  		     241 2019/03/30 20:59:58	mod_fortified.png
+	    New File  		     447 2019/03/30 20:59:58	mod_glowing.png
+	    New File  		     210 2019/03/30 20:59:58	mod_mending_moss.png
+	    New File  		     160 2019/03/30 20:59:58	mod_shulking.png
+	    New File  		     276 2019/03/30 20:59:58	mod_soulbound.png
+	    New File  		     158 2019/03/30 20:59:58	mod_web.png
+	                  30	D:\Development\Faithful\Faithful32-1.12.2\TODO\tconstruct\textures\items\rapier\
+	    New File  		     504 2019/03/30 20:59:58	mod_glowing.png
+	    New File  		     231 2019/03/30 20:59:58	mod_haste.png
+	    New File  		     234 2019/03/30 20:59:58	mod_mending_moss.png
+	    New File  		     184 2019/03/30 20:59:58	mod_shulking.png
+	    New File  		     265 2019/03/30 20:59:58	mod_soulbound.png
+	    New File  		     183 2019/03/30 20:59:58	mod_web.png
+	                  43	D:\Development\Faithful\Faithful32-1.12.2\TODO\tconstruct\textures\items\scythe\
+	    New File  		     216 2019/03/30 20:59:58	mod_blasting.png
+	    New File  		     282 2019/03/30 20:59:58	mod_fortified.png
+	    New File  		     250 2019/03/30 20:59:58	mod_fortify.png
+	    New File  		     538 2019/03/30 20:59:58	mod_glowing.png
+	    New File  		     243 2019/03/30 20:59:58	mod_mending_moss.png
+	    New File  		     231 2019/03/30 20:59:58	mod_shulking.png
+	    New File  		     276 2019/03/30 20:59:58	mod_soulbound.png
+	    New File  		     255 2019/03/30 20:59:58	mod_web.png
+	  New Dir         62	D:\Development\Faithful\Faithful32-1.12.2\TODO\tconstruct\textures\items\shortbow\
+	    New File  		     241 2019/03/30 20:59:58	bowstring.png
+	    New File  		     241 2019/03/30 20:59:58	bowstring_1.png
+	    New File  		     238 2019/03/30 20:59:58	bowstring_2.png
+	    New File  		     179 2019/03/30 20:59:58	bowstring_3.png
+	    New File  		     175 2019/03/30 20:59:58	bowstring_broken.png
+	    New File  		     203 2019/03/30 20:59:58	limb_bottom.png
+	    New File  		     202 2019/03/30 20:59:58	limb_bottom_2.png
+	    New File  		     150 2019/03/30 20:59:58	limb_bottom_2_cactus.png
+	    New File  		     123 2019/03/30 20:59:58	limb_bottom_2_contrast.png
+	    New File  		     125 2019/03/30 20:59:58	limb_bottom_2_paper.png
+	    New File  		     194 2019/03/30 20:59:58	limb_bottom_3.png
+	    New File  		     151 2019/03/30 20:59:58	limb_bottom_3_cactus.png
+	    New File  		     120 2019/03/30 20:59:58	limb_bottom_3_contrast.png
+	    New File  		     126 2019/03/30 20:59:58	limb_bottom_3_paper.png
+	    New File  		     149 2019/03/30 20:59:58	limb_bottom_cactus.png
+	    New File  		     123 2019/03/30 20:59:58	limb_bottom_contrast.png
+	    New File  		     123 2019/03/30 20:59:58	limb_bottom_paper.png
+	    New File  		     217 2019/03/30 20:59:58	limb_top.png
+	    New File  		     220 2019/03/30 20:59:58	limb_top_2.png
+	    New File  		     152 2019/03/30 20:59:58	limb_top_2_cactus.png
+	    New File  		     122 2019/03/30 20:59:58	limb_top_2_contrast.png
+	    New File  		     121 2019/03/30 20:59:58	limb_top_2_paper.png
+	    New File  		     208 2019/03/30 20:59:58	limb_top_3.png
+	    New File  		     144 2019/03/30 20:59:58	limb_top_3_cactus.png
+	    New File  		     113 2019/03/30 20:59:58	limb_top_3_contrast.png
+	    New File  		     118 2019/03/30 20:59:58	limb_top_3_paper.png
+	    New File  		     147 2019/03/30 20:59:58	limb_top_cactus.png
+	    New File  		     120 2019/03/30 20:59:58	limb_top_contrast.png
+	    New File  		     121 2019/03/30 20:59:58	limb_top_paper.png
+	    New File  		     160 2019/03/30 20:59:58	mod_bane_spider.png
+	    New File  		     154 2019/03/30 20:59:58	mod_bane_spider_2.png
+	    New File  		     149 2019/03/30 20:59:58	mod_bane_spider_3.png
+	    New File  		     148 2019/03/30 20:59:58	mod_beheading.png
+	    New File  		     107 2019/03/30 20:59:58	mod_diamond.png
+	    New File  		     109 2019/03/30 20:59:58	mod_emerald.png
+	    New File  		     153 2019/03/30 20:59:58	mod_fiery.png
+	    New File  		     148 2019/03/30 20:59:58	mod_fiery_2.png
+	    New File  		     142 2019/03/30 20:59:58	mod_fiery_3.png
+	    New File  		     597 2019/03/30 20:59:58	mod_glowing.png
+	    New File  		     567 2019/03/30 20:59:58	mod_glowing_1.png
+	    New File  		     570 2019/03/30 20:59:58	mod_glowing_2.png
+	    New File  		     574 2019/03/30 20:59:58	mod_glowing_3.png
+	    New File  		     156 2019/03/30 20:59:58	mod_haste.png
+	    New File  		     164 2019/03/30 20:59:58	mod_haste_1.png
+	    New File  		     165 2019/03/30 20:59:58	mod_haste_2.png
+	    New File  		     165 2019/03/30 20:59:58	mod_haste_3.png
+	    New File  		     254 2019/03/30 20:59:58	mod_knockback.png
+	    New File  		     261 2019/03/30 20:59:58	mod_mending_moss.png
+	    New File  		     117 2019/03/30 20:59:58	mod_necrotic.png
+	    New File  		     106 2019/03/30 20:59:58	mod_reinforced.png
+	    New File  		     140 2019/03/30 20:59:58	mod_sharpness.png
+	    New File  		     136 2019/03/30 20:59:58	mod_sharpness_3.png
+	    New File  		     295 2019/03/30 20:59:58	mod_shulking.png
+	    New File  		     306 2019/03/30 20:59:58	mod_shulking_3.png
+	    New File  		     166 2019/03/30 20:59:58	mod_silk.png
+	    New File  		     163 2019/03/30 20:59:58	mod_silk_2.png
+	    New File  		     158 2019/03/30 20:59:58	mod_silk_3.png
+	    New File  		     148 2019/03/30 20:59:58	mod_smite.png
+	    New File  		     277 2019/03/30 20:59:58	mod_soulbound.png
+	    New File  		     291 2019/03/30 20:59:58	mod_web.png
+	    New File  		     281 2019/03/30 20:59:58	mod_web_2.png
+	    New File  		     279 2019/03/30 20:59:58	mod_web_3.png
+	                  37	D:\Development\Faithful\Faithful32-1.12.2\TODO\tconstruct\textures\items\shovel\
+	    New File  		     179 2019/03/30 20:59:58	binding_bone_base.png
+	    New File  		     173 2019/03/30 20:59:58	binding_cactus.png
+	    New File  		     164 2019/03/30 20:59:58	binding_contrast.png
+	    New File  		     177 2019/03/30 20:59:58	binding_paper.png
+	    New File  		     154 2019/03/30 20:59:58	mod_blasting.png
+	    New File  		     190 2019/03/30 20:59:58	mod_fortified.png
+	    New File  		     544 2019/03/30 20:59:58	mod_glowing.png
+	    New File  		     160 2019/03/30 20:59:58	mod_knockback.png
+	    New File  		     231 2019/03/30 20:59:58	mod_mending_moss.png
+	    New File  		     171 2019/03/30 20:59:58	mod_shulking.png
+	    New File  		     277 2019/03/30 20:59:58	mod_soulbound.png
+	    New File  		     175 2019/03/30 20:59:58	mod_web.png
+	                  34	D:\Development\Faithful\Faithful32-1.12.2\TODO\tconstruct\textures\items\shuriken\
+	    New File  		     268 2019/03/30 20:59:58	mod_fins.png
+	    New File  		     556 2019/03/30 20:59:58	mod_glowing.png
+	    New File  		     246 2019/03/30 20:59:58	mod_mending_moss.png
+	    New File  		     283 2019/03/30 20:59:58	mod_shulking.png
+	    New File  		     250 2019/03/30 20:59:58	mod_soulbound.png
+	    New File  		     237 2019/03/30 20:59:58	mod_web.png
+	    New File  		     261 2019/03/30 20:59:58	shuriken.png
+	    New File  		     291 2019/03/30 20:59:58	shuriken2.png
+	    New File  		     273 2019/03/30 20:59:58	shuriken2_cactus.png
+	    New File  		     257 2019/03/30 20:59:58	shuriken2_contrast.png
+	    New File  		     293 2019/03/30 20:59:58	shuriken2_paper.png
+	    New File  		     289 2019/03/30 20:59:58	shuriken3.png
+	    New File  		     282 2019/03/30 20:59:58	shuriken3_cactus.png
+	    New File  		     263 2019/03/30 20:59:58	shuriken3_contrast.png
+	    New File  		     275 2019/03/30 20:59:58	shuriken3_paper.png
+	    New File  		     281 2019/03/30 20:59:58	shuriken4.png
+	    New File  		     280 2019/03/30 20:59:58	shuriken4_cactus.png
+	    New File  		     250 2019/03/30 20:59:58	shuriken4_contrast.png
+	    New File  		     284 2019/03/30 20:59:58	shuriken4_paper.png
+	    New File  		     260 2019/03/30 20:59:58	shuriken_cactus.png
+	    New File  		     209 2019/03/30 20:59:58	shuriken_contrast.png
+	    New File  		     282 2019/03/30 20:59:58	shuriken_paper.png
+	  New Dir          0	D:\Development\Faithful\Faithful32-1.12.2\TODO\tconstruct\textures\models\
+	  New Dir          3	D:\Development\Faithful\Faithful32-1.12.2\TODO\tconstruct\textures\models\armor\
+	    New File  		     670 2019/03/30 20:59:58	piggyback_layer_1.png
+	    New File  		    1036 2019/03/30 20:59:58	slime_layer_1.png
+	    New File  		     249 2019/03/30 20:59:58	slime_layer_1_overlay.png
+	  New Dir          6	D:\Development\Faithful\Faithful32-1.12.2\TODO\tconstruct\textures\particle\
+	    New File  		     769 2019/03/30 20:59:58	particles.png
+	    New File  		    1118 2019/03/30 20:59:58	slash_axe.png
+	    New File  		    1035 2019/03/30 20:59:58	slash_cleaver.png
+	    New File  		    1091 2019/03/30 20:59:58	slash_frypan.png
+	    New File  		    1181 2019/03/30 20:59:58	slash_hammer.png
+	    New File  		     988 2019/03/30 20:59:58	slash_rapier.png
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :        49        16        33         0         0         0
+   Files :      1178       530       648         0         0        24
+   Bytes :    1.33 m    1.06 m   277.4 k         0         0   113.7 k
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : Monday, April 29, 2019 5:37:02 PM
+
