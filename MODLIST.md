@@ -12,7 +12,7 @@ AE2 Stuff | Not Implemented | ae2stuff
 Akashic Tome | In Progress | akashictome
 Appleskin | Finished | appleskin
 Applied Energistics 2 | In Progress | appliedenergistics2
-Architecturecraft | Not Implemented | architecturecraft
+Architecturecraft | In Progress | architecturecraft
 Aroma1997 Core | Not Implemented | aroma1997core
 Aroma1997s Dimensional World | Not Implemented | aroma1997sdimension
 Astral Sorcery | In Progress | astralsorcery
@@ -23,6 +23,7 @@ Barrels | In Progress | barrels
 Baubles | Finished | baubles
 Better Advancements | Not Implemented | betteradvancedments
 Better Builders Wands | Finished | betterbuilderswands
+Better With Mods | In Progress | betterwithmods
 Bibliocraft | Textures from 1.7 | bibliocraft
 Binnie Mods | Textures from 1.7 (Binniecore) | binniecore / binniedesign / botany / extrabees / extratrees / forestry / genetics
 Biomes'o'Plenty | In Progress | biomesoplenty
