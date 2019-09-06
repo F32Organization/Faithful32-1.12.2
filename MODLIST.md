@@ -109,6 +109,7 @@ Mini Coal | In Progress | minicoal
 Mob Grinding Utils | Not Implemented | mob_grinding_utils
 Morph-o-Tool | Finished | morphtool
 Mystical Agriculture | In Progress | mysticalagricultire
+Mystical World | In Progress | mysticalworld
 Natura | Textures from 1.10 | natura
 Natures Compass | Not Implemented | naturescompass
 Nether Metals | In Progress | nethermetals
