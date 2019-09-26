@@ -174,5 +174,6 @@ Whoosh | Not Implemented | whoosh
 Wireless Crafting Terminal | Finished | wct
 Wooden Shears | In Progress | woodenshears
 XNet | In Progress | xnet
+XP Book | Finished | xpbook
 XTones | Not Implemented | xtones
 YABBA | Not Implemented | yabba
