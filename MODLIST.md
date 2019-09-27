@@ -23,6 +23,7 @@ Barrels | In Progress | barrels
 Baubles | Finished | baubles
 Better Advancements | Not Implemented | betteradvancedments
 Better Builders Wands | Finished | betterbuilderswands
+BetterNether | Finished | betternether
 Better With Mods | In Progress | betterwithmods
 Bibliocraft | Textures from 1.7 | bibliocraft
 Binnie Mods | Textures from 1.7 (Binniecore) | binniecore / binniedesign / botany / extrabees / extratrees / forestry / genetics
@@ -174,5 +175,6 @@ Whoosh | Not Implemented | whoosh
 Wireless Crafting Terminal | Finished | wct
 Wooden Shears | In Progress | woodenshears
 XNet | In Progress | xnet
+XP Book | Finished | xpbook
 XTones | Not Implemented | xtones
 YABBA | Not Implemented | yabba
