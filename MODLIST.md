@@ -23,6 +23,7 @@ Barrels | In Progress | barrels
 Baubles | Finished | baubles
 Better Advancements | Not Implemented | betteradvancedments
 Better Builders Wands | Finished | betterbuilderswands
+BetterNether | Finished | betternether
 Better With Mods | In Progress | betterwithmods
 Bibliocraft | Textures from 1.7 | bibliocraft
 Binnie Mods | Textures from 1.7 (Binniecore) | binniecore / binniedesign / botany / extrabees / extratrees / forestry / genetics
