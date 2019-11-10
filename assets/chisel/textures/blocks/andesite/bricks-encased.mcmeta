@@ -3,7 +3,10 @@
     "ctm_version": 1,
     "type": "normal",
     "layer": "SOLID",
-    "textures": [],
+    "textures": [
+      "./bricks-encased",
+      "./bricks-encased-ctm"
+    ],
     "extra": {
       "light": 0
     }
