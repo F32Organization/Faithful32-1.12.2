@@ -1,0 +1,15 @@
+{
+    "animation": {
+        "interpolate": true,
+	    "frametime": 5
+    },
+    "ctm": {
+        "ctm_version": 1,
+        "type": "pattern",
+        "layer": "CUTOUT",
+        "extra": {
+            "size": 2,
+            "light": 8
+        }
+    }
+}

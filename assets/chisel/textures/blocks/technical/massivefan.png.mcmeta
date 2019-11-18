@@ -1,3 +1,10 @@
 {
-	"animation": {}
+    "animation": { "interpolate": true },
+    "ctm": {
+        "ctm_version": 1,
+        "type": "pattern",
+        "extra": {
+            "size": 3
+        }
+    }
 }
