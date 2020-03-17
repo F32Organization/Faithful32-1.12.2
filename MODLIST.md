@@ -53,6 +53,7 @@ Custom Main Menu | Not Implemented | custommainmenu
 Cyclic | In Progress | cyclicmagic
 Dank Null | Not Implemented | danknull
 Dark Utilities | Textures from 1.10 | darkutils / minecraft
+Davincis Vessels | In Progress | davincisvessels
 Deep Resonance | Textures from 1.10 | deepresonance
 Disenchanter | In Progress | disenchanter
 Draconic Evolution | In Progress | draconicevolution
@@ -101,8 +102,7 @@ LivVulpes | Textures from 1.10 | libvulpes
 LLOverlay Reloaded | Not Implemented | llor
 Long Fall Boots | Not Implemented | longfallboots
 Magic Bees | Textures from 1.7 | magicbees
-Malisis Core | Not Implemented | malisiscore
-Malisis Doors | Not Implemented | malisisdoors
+Malisis Doors | In Progress | malisisdoors
 Mantle | Not Implemented | mantle
 Mekanism | In Progress | mekanism
 Mekanism Tools | In Progress | mekanismtools
@@ -115,6 +115,7 @@ Natura | Textures from 1.10 | natura
 Natures Compass | Not Implemented | naturescompass
 Nether Metals | In Progress | nethermetals
 NICE | Not Implemented | nice
+Not Enough Scaffolds | Finished | notenoughscaffold
 Not Enough Wands | Finished | notenoughwands
 Nuclearcraft | Not Implemented | nuclearcraft
 Open Blocks | Textures from 1.7 | openblocks
@@ -128,6 +129,7 @@ Project Red | Textures from 1.7 | projectred
 Quark | In Progress | minecraft / quark
 Railcraft | In Progress | railcraft
 Rangedpumps | Not Implemented | rangedpumps
+Realistic Torches | In Progress | realistictorches
 Reborm Core | Not Implemented | reborncore
 Redstone Arsenal | In Progress | redstonearsenal
 Refined Storage | In Progress | refinedstorage
@@ -138,14 +140,17 @@ RFTools Dimension | In Progress | rftoolsdim
 Roots | Textures from 1.10 | roots
 Rustic | In Progress | rustic
 Secret Rooms Mod | Not Implemented | secretroomsmod
+Serene Seasons | Finished | sereneseasons
 Shetiphian Core | Not Implemented | minecraft / shetiphiancore / shetiphianguide
 Signals | Not Implemented | signals
 Simple Achievements | In Progress | simpleachievements
 Simple Covers | In Progress | covers
 Simple Void World | Not Implemented | simpleviodworld
 Sky Resources 2 | In Progress | skyresources
+Snow Variants | Finished | snowvariants
 SonarCore | Not Implemented | sonarcore
 Soul Shards The Old Way | Not Implemented | soulshardstow
+Speedy Ladders | Finished | speedyladders
 Spice of Life | In Progress | spiceoflife
 Steves Carts | Textures from 1.10 | stevescarts
 Storage Drawers | Textures from 1.10 | storagedrawers
@@ -169,6 +174,7 @@ Torchmaster | Not Implemented | torchmaster
 Traverse | Not Implemented | traverse
 Twilight Forest | Textures from 1.7 | twilightforest
 ValkyrieLib | Not Implemented | minecraft / valkyrielib
+Village Names | In Progress | villagenames
 Visible Armor Slots | In Progress | visiblearmorslots
 Waystones | Not Implemented | waystones
 Whoosh | Not Implemented | whoosh
