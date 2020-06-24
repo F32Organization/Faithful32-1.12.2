@@ -145,7 +145,7 @@ https://www.curseforge.com/minecraft/mc-mods/aobd-ore-chunks
 https://www.curseforge.com/minecraft/mc-mods/minicoal
 https://www.curseforge.com/minecraft/mc-mods/abyssalcraft
 https://www.curseforge.com/minecraft/mc-mods/advanced-generators
-https://www.curseforge.com/minecraft/mc-mods/advanced-solars-classic
+https://www.curseforge.com/minecraft/mc-mods/advanced-solar-materials
 https://www.curseforge.com/minecraft/mc-mods/ae2-stuff
 https://www.curseforge.com/minecraft/mc-mods/animania
 https://www.curseforge.com/minecraft/mc-mods/aroma1997s-dimensional-world
