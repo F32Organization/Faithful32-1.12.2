@@ -1,0 +1,10 @@
+{
+  "ctm": {
+    "ctm_version": 1,
+    "type": "CTM",
+    "layer": "SOLID",
+    "textures": [
+        "wizardry:blocks/wisdom_wood_pigmented_planks_ctm"
+    ]
+  }
+}
